@@ -43,11 +43,3 @@ img{width: 33%;
     height: 15%;
     border-radius: 15%;
 }
-footer{background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 4px;
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-}
