@@ -29,8 +29,8 @@ main{
     padding: 20px;
 }
 section{background-color: #dadada;
-    margin-bottom: 21px;
-    border-radius: 9px;
+    margin-bottom: 20px;
+    border-radius: 15px;
     box-shadow: 0 2px 5px black;}
 img{width: 33%;
     height: 15%;
